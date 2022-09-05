@@ -45,5 +45,8 @@ public class Main {
         em.persist(person);
         
         tx.commit();
+        
+        em.close();
+        factory.close();
     }
 }
