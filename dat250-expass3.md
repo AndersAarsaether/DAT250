@@ -1,3 +1,7 @@
+## Validation of installation package
+
+<img width="654" alt="image" src="https://user-images.githubusercontent.com/54100993/190087685-32debb90-25d5-4b0f-84bf-892f1f23e4a2.png">
+
 ## Create:
 
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/54100993/190082544-c2616dad-53fa-4d61-969c-980e01709edc.png">
