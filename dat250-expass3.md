@@ -13,3 +13,7 @@
 ## Delete:
 
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/54100993/190084130-891ff537-2f26-4e10-a4f7-f7f7595d3fe7.png">
+
+## BulkWrite: 
+
+<img width="1156" alt="image" src="https://user-images.githubusercontent.com/54100993/190085309-84bdc5a1-9d93-4cd5-85b1-606319ee1dd7.png">
