@@ -9,3 +9,7 @@
 ## Update:
 
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/54100993/190083736-9f068fff-d9ef-40cd-be43-6dd4c2e6c6ee.png">
+
+## Delete:
+
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/54100993/190084130-891ff537-2f26-4e10-a4f7-f7f7595d3fe7.png">
