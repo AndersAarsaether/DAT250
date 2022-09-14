@@ -21,3 +21,7 @@
 ## BulkWrite: 
 
 <img width="1156" alt="image" src="https://user-images.githubusercontent.com/54100993/190085309-84bdc5a1-9d93-4cd5-85b1-606319ee1dd7.png">
+
+## Experiment 2 example:
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/54100993/190091624-47b9af89-3892-4238-af94-137763f21a39.png">
