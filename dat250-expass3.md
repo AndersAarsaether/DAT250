@@ -30,7 +30,12 @@ Did not really have any problems as installation went smoothly
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/54100993/190091624-47b9af89-3892-4238-af94-137763f21a39.png">
 
-## My own mapReduce operation
+## My own mapReduce operation:
 As the owner of the store, I wonder how much money I earn from the different items in my store:
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/54100993/190097253-6b3ba6d1-7d3e-4410-9ff5-aff073ccbf58.png">
+
+The collection shows how much money the store has made from the different items
+
+## Pending issues:
+None.
